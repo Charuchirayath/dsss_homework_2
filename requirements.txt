@@ -1,0 +1,2 @@
+some_package==1.2.3
+another_package>=2.0,<3.0
